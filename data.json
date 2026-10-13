@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Pants",
+    "category": "Clothes",
+    "amount": 1500,
+    "date": "2026-10-13"
+  },
+  {
+    "id": 2,
+    "description": "Ramen",
+    "category": "Food",
+    "amount": 180,
+    "date": "2026-10-13"
+  },
+  {
+    "id": 3,
+    "description": "Gundam",
+    "category": "Toy",
+    "amount": 1738,
+    "date": "2026-10-13"
+  }
+]
